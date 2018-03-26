@@ -1,0 +1,1 @@
+Image/Mode/Indexed/Generate optimum palette. Maximum number of colors - 8.

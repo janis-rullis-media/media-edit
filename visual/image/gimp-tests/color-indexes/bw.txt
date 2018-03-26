@@ -1,0 +1,1 @@
+Image/Mode/Indexed/Use black and white (1-bit) palette.
