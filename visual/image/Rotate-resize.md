@@ -1,6 +1,12 @@
 ## Rotate
 
-Image -> Transform -> Rotate.
+### Common
+
+* Image -> Transform -> Rotate.
+
+### Custom
+
+* Shift + R
 
 ## Resize
 
