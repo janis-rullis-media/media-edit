@@ -26,3 +26,7 @@
 ## From scratch
 
 * [Cat model sheet (deviantart.com)](https://www.deviantart.com/popular-24-hours/?section=&global=1&q=cat+model+sheet)
+
+## Other
+
+* Dark fog - https://ww2.soul-anime.us/watches/3-gatsu-no-lion-episode-10-english-subbed-5.html
