@@ -30,3 +30,4 @@
 ## Other
 
 * Dark fog - https://ww2.soul-anime.us/watches/3-gatsu-no-lion-episode-10-english-subbed-5.html
+* Shogi board thoughts - https://ww2.soul-anime.us/watch/3-gatsu-no-lion-episode-18/
