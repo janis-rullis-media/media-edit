@@ -36,3 +36,5 @@
 
 * Ergo proxy blur / focus, angles, shadows. Intro - retro grayscapw inkblots. 
 * 6 angels 1st ep - circle diagrams.
+* pinocchio ausonia
+* abe's odyssey 
