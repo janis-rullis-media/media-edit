@@ -38,3 +38,9 @@
 * 6 angels 1st ep - circle diagrams.
 * pinocchio ausonia
 * abe's odyssey 
+
+## Photos
+
+* http://www.ievaepnere.com/earlier-works/
+* http://www.artnet.com/artists/annie-leibovitz/
+* http://www.vitolins.lv/
