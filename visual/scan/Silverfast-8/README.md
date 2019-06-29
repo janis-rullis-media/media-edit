@@ -1,5 +1,9 @@
 # Silverfast 8
 
+## Tutorials
+
+* [Jonathan Notley](https://www.youtube.com/watch?v=Hbjvrjhr3-w)
+
 ## Sizes
 
 ### Presets
