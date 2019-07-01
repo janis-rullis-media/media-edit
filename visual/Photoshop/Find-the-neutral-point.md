@@ -4,7 +4,7 @@
 * Create a new blank layer by click on the Layer (page) icon on the bottom right side or Shift + Ctrl + N.
 * Edit/Fill (Shift + F5).
 * Select Use: '50% Gray'.
-* Select again the Background layer.
+* Select the new Layer and change the selector above from 'Normal' to 'Difference'.
 * Add a new threshold by click on the Adjustments (black and white circle) on the bottom right side.
 * In the Threshold properties window drag the arrow all the way to the left side (or set the Threshold Level to 1) . The image will become white.
 * Drag the arrow to the right side till black spots appear (or increase the Threshold Level).
