@@ -1,5 +1,7 @@
 # Interesting / inspiration
 
+* Johh dies at the end.
+* https://www.youtube.com/watch?v=pVI_qqqNr9Q
 * Maude Room
 * Cyberpunk - Neuromancer, Akira, Ghost in The Shell, 2077, Nirvana, https://github.blog/2020-10-11-top-ten-games-from-the-js13k-2020-competition/
 * https://makefrontendshitagain.party/ 
