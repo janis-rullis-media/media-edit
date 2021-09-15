@@ -1,5 +1,7 @@
 # Interesting / inspiration
 
+* https://www.openculture.com/2016/10/goethes-colorful-abstract-illustrations-for-his-1810-treatise-theory-of-colors.html
+* kandinsky https://www.openculture.com/2021/09/the-evolution-of-kandinskys-painting.html 
 * Johh dies at the end.
 * https://thenib.com/
 * http://gunshowcomic.com/index.php
